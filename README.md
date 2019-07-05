@@ -12,6 +12,6 @@ fun times.
 
 ![homework 1](homework1.png)
 
-![homework2](homeowrk2.png)
+![homework2](homework2.png)
 
-![homework3](homeowrk3.png)
+![homework3](homework3.png)
